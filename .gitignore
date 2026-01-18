@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Large Data & Models (Keep local)
+models/*.pth
+data/*.csv
+
+# VS Code
+.vscode/
