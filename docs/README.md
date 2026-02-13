@@ -10,4 +10,5 @@ SWARM is a research-focused implementation of a **Hierarchical Multi-Agent Reinf
 
 ### Target Metrics:
 - **Throughput:** >5,200 packages/hour (targeting a 15% improvement over rule-based baselines).
-- **Safety:** <2% collision rate using formal safety constraints.
+- **Safety:** <2% collision rate using for formal safety constraints.
+
