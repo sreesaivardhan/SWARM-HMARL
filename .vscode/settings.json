@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "./venv/bin/python",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "notebook.outline.showCodeCells": true,
+    "python.terminal.activateEnvironment": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true
+}

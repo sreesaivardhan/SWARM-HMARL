@@ -13,4 +13,5 @@ models/*.pth
 data/*.csv
 
 # VS Code
-.vscode/
+.vscode/venv_linux/
+venv_linux/
