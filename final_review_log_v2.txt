@@ -1,0 +1,11 @@
+SWARM-HMARL RESEARCH LOG - VERSION 2
+Environment: rware-tiny-2ag-v2 | Steps: 500
+==================================================
+
+[12:27:06] EVENT: Agent 0 Mastered Pickup Skill (Shelf 0).
+[12:27:06] EVENT: Agent 1 Mastered Pickup Skill (Shelf 1).
+Step 010 | A0(4,4)[S] | A1(4,3)[S] | State: DELIVERING
+[12:27:06] EVENT: Agent 0 Mastered Delivery Routing (Goal Reached).
+[12:27:06] EVENT: Agent 1 Mastered Delivery Routing (Goal Reached).
+[12:27:06] SUCCESS: All agents completed tasks at Step 19.
+[12:27:06] Hierarchical routing handoff fully verified.
